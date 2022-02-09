@@ -1,4 +1,4 @@
-# Benchmark problems for transcranial ultrasound simulation: Intercomparison of compressional wave models
+# Benchmark problems for transcranial ultrasound simulation: Intercomparison library
 
 [![License: LGPL v3](https://camo.githubusercontent.com/a68e3691793655c52b2d207c94ea538cfcdf9a4cf081c27b6e55ea0e4b27b936/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4c47504c25323076332d626c75652e737667)](https://www.gnu.org/licenses/lgpl-3.0) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6020543.svg)](https://doi.org/10.5281/zenodo.6020543)
 
