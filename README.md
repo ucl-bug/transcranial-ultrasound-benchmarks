@@ -1,6 +1,6 @@
 # Benchmark problems for transcranial ultrasound simulation: Intercomparison library
 
-[![License: LGPL v3](https://camo.githubusercontent.com/a68e3691793655c52b2d207c94ea538cfcdf9a4cf081c27b6e55ea0e4b27b936/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4c47504c25323076332d626c75652e737667)](https://www.gnu.org/licenses/lgpl-3.0) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6020543.svg)](https://doi.org/10.5281/zenodo.6020543)
+[![License: LGPL v3](https://camo.githubusercontent.com/a68e3691793655c52b2d207c94ea538cfcdf9a4cf081c27b6e55ea0e4b27b936/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4c47504c25323076332d626c75652e737667)](https://www.gnu.org/licenses/lgpl-3.0) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6020543.svg)](https://doi.org/10.5281/zenodo.6020543) [![arXiv](https://img.shields.io/badge/arXiv-2202.04552-b31b1b.svg)](https://arxiv.org/abs/2202.04552)
 
 ## Author
 
@@ -8,7 +8,7 @@ This library is written by Bradley Treeby, University College London. Contact: [
 
 ## Overview
 
-This repository provides the MATLAB functions and scripts used for comparing model results for the benchmarks outlined in [paper ref].
+This repository provides the MATLAB functions and scripts used for comparing model results for the benchmarks outlined [here](https://arxiv.org/abs/2202.04552).
 
 ## Quick start guide
 
